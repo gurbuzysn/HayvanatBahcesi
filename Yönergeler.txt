@@ -1,0 +1,2 @@
+1-) Hayvan Ekleme-Silme-Güncelleme İşlemleri Yapılabilecek
+2-) Eklenen hayvanlar en son program kapatılırken son hali nasılsa açıldıgında öyle gelecek
